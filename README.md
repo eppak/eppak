@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/eppak">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppak&langs_count=8&theme=calm&layout=compact" width="48%"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/eppak">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=eppak&hide=prs&count_private=true&show_icons=true&theme=calm"  width="48%" />
 </a>
