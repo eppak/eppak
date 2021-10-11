@@ -1,5 +1,4 @@
-### Hi there 👋
-Hi 🤝 i'm Alessandro Cappellozza from Italy, i'm a web developer devoted mainly to IoT industrial field. My interests are on PHP (Laravel), NodeJs (NestJs) in general and DevOps. I contribuite to the Italian Laravel community with talks, mentoring and M.C. at national events. Your contibution will sustain this activities:
+Hi 🤝 i'm **Alessandro Cappellozza** from Italy, i'm a web developer devoted mainly to IoT industrial field. My interests are on **PHP** (Laravel), **NodeJs** (NestJs) in general and DevOps. I contribuite to the **Italian Laravel** community with talks, mentoring and M.C. at national events. Your contibution will sustain this activities:
 
 - 📖Open Source.
 
