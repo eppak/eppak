@@ -1,20 +1,15 @@
 ### Hi there 👋
+Hi 🤝 i'm Alessandro Cappellozza from Italy, i'm a web developer devoted mainly to IoT industrial field. My interests are on PHP (Laravel), NodeJs (NestJs) in general and DevOps. I contribuite to the Italian Laravel community with talks, mentoring and M.C. at national events. Your contibution will sustain this activities:
 
-<!--
-**eppak/eppak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖Open Source.
 
-Here are some ideas to get you started:
+- 📦[Sculptor](https://sculptor-devops.github.io/), an automated devops system for PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎤[Talks](https://www.youtube.com/c/grusp).
 
+- 🗨️[Free meetings](https://rovigo.grusp.org/).
+
+Thanks for your interest in my work! ❤️ 
 
 <a href="https://github.com/eppak">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppak&langs_count=8&theme=calm&layout=compact" width="48%"/>
